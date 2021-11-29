@@ -34,6 +34,6 @@ root                    (project root folder)
 
 ## Authors
 
-#Marco Varela
-#var17010@byui.edu
-#Redoing the team assignment:November 29, 2021
+Author: Marco Varela --- 
+Email:var17010@byui.edu ---
+Redoing the team assignment:November 29, 2021
