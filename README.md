@@ -33,5 +33,7 @@ root                    (project root folder)
 * Python 3.8.0
 
 ## Authors
----
-* # TODO: Add your names and emails here
+
+Marco Varela
+var17010@byui.edu
+Redoing the team assignment:November 29, 2021
